@@ -60,3 +60,58 @@ to be 13,245 tCO2e, whereas actual emission reduction achieved during the first 
 submitted as a part of first monitoring and verification. Since the project activity generates electricity
 through wind energy, a clean renewable energy source it will not cause any negative impact on the
 environment and thereby contributes to climate change mitigation efforts.
+________________
+ISSUANCE DATE: 17/02/2026
+
+QTY: 154634
+
+MP-01: 28/09/2017-31/12/2024
+____________
+Serial Number: 0001-000001-002289-UCR-CoU-IN-566-28092017-31122017
+
+Vintage Year: 2017
+
+Quantity: 2289
+__________
+Serial Number: 0001-002290-018146-UCR-CoU-IN-566-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 15857
+_____________
+Serial Number: 0001-018147-046975-UCR-CoU-IN-566-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 28829
+_____________
+Serial Number: 0001-046976-069487-UCR-CoU-IN-566-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 22512
+___________
+Serial Number: 0001-069488-093847-UCR-CoU-IN-566-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 24360
+______________
+Serial Number: 0001-093848-116618-UCR-CoU-IN-566-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 22771
+_______________
+Serial Number: 0001-116619-138423-UCR-CoU-IN-566-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 21805
+______________
+Serial Number: 0001-138424-154634-UCR-CoU-IN-566-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 16211
+_____________
